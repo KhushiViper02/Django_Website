@@ -1,0 +1,8 @@
+{
+
+        "python.defaultInterpreterPath": "path/to/venv/Scripts/python.exe",
+        "editor.fontSize": 14,
+        "editor.tabSize": 4
+    
+    
+}
